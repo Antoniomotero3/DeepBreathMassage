@@ -1,0 +1,545 @@
+.zij-aan-zij-koppelsmassage-container {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: auto,cover;
+  justify-content: flex-start;
+  background-image: linear-gradient(90deg, rgb(189, 195, 199) 0.00%,rgba(44, 62, 80, 0.25) 100.00%),url("public/playground_assets/zweedse-koppels.jpg");
+  background-repeat: repeat,no-repeat;
+  background-position: center;
+}
+.zij-aan-zij-koppelsmassage-text {
+  color: var(--dl-color-gray-950);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+}
+.zij-aan-zij-koppelsmassage-text01 {
+  color: var(--dl-color-gray-950);
+  font-size: 36px;
+  margin-bottom: 100px;
+}
+.zij-aan-zij-koppelsmassage-navlink {
+  display: contents;
+}
+.zij-aan-zij-koppelsmassage-get-started {
+  width: 150px;
+  height: 80px;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  border-radius: 58px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+  text-decoration: none;
+  background-color: #4AA4F4;
+}
+.zij-aan-zij-koppelsmassage-text02 {
+  color: rgb(12, 16, 12);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+}
+.zij-aan-zij-koppelsmassage-container1 {
+  width: 529px;
+  height: 229px;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  margin-bottom: 493px;
+  padding-right: var(--dl-space-space-twounits);
+  justify-content: center;
+  background-color: var(--dl-color-gray-black50);
+}
+.zij-aan-zij-koppelsmassage-text03 {
+  color: var(--dl-color-gray-950);
+  font-size: 22px;
+  text-align: center;
+}
+.zij-aan-zij-koppelsmassage-container2 {
+  top: 285px;
+  flex: 0 0 auto;
+  right: var(--dl-space-space-threeunits);
+  width: 450px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black50);
+}
+.zij-aan-zij-koppelsmassage-text04 {
+  color: var(--dl-color-gray-950);
+  font-size: 50px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.zij-aan-zij-koppelsmassage-text05 {
+  color: var(--dl-color-gray-950);
+  font-size: 34px;
+  align-self: flex-start;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.zij-aan-zij-koppelsmassage-mark {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon01 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.zij-aan-zij-koppelsmassage-mark1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon03 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon04 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label1 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.zij-aan-zij-koppelsmassage-mark2 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon06 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon07 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label2 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.zij-aan-zij-koppelsmassage-container3 {
+  top: 285px;
+  flex: 0 0 auto;
+  left: var(--dl-space-space-threeunits);
+  width: 450px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black50);
+}
+.zij-aan-zij-koppelsmassage-text08 {
+  color: var(--dl-color-gray-950);
+  font-size: 50px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.zij-aan-zij-koppelsmassage-text09 {
+  color: var(--dl-color-gray-950);
+  font-size: 34px;
+  align-self: flex-start;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.zij-aan-zij-koppelsmassage-mark3 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon09 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon10 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label3 {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.zij-aan-zij-koppelsmassage-mark4 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon12 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon13 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label4 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.zij-aan-zij-koppelsmassage-mark5 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: center;
+}
+.zij-aan-zij-koppelsmassage-icon15 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.zij-aan-zij-koppelsmassage-icon16 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.zij-aan-zij-koppelsmassage-label5 {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+@media(max-width: 1600px) {
+  .zij-aan-zij-koppelsmassage-get-started {
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    background-color: #37acb3;
+  }
+  .zij-aan-zij-koppelsmassage-container1 {
+    width: 367px;
+    margin-bottom: 191px;
+  }
+  .zij-aan-zij-koppelsmassage-text03 {
+    color: var(--dl-color-gray-950);
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-container2 {
+    top: 160px;
+    right: var(--dl-space-space-threeunits);
+    width: 360px;
+    height: 480px;
+  }
+  .zij-aan-zij-koppelsmassage-text04 {
+    font-size: 42px;
+  }
+  .zij-aan-zij-koppelsmassage-text05 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label1 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label2 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-container3 {
+    top: 160px;
+    left: var(--dl-space-space-threeunits);
+    width: 360px;
+    height: 480px;
+  }
+  .zij-aan-zij-koppelsmassage-text08 {
+    font-size: 42px;
+  }
+  .zij-aan-zij-koppelsmassage-text09 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label3 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label4 {
+    font-size: 28px;
+  }
+  .zij-aan-zij-koppelsmassage-label5 {
+    font-size: 28px;
+  }
+}
+@media(max-width: 1200px) {
+  .zij-aan-zij-koppelsmassage-container1 {
+    width: 309px;
+    height: 206px;
+    margin-bottom: 332px;
+  }
+  .zij-aan-zij-koppelsmassage-text03 {
+    font-size: 15px;
+  }
+  .zij-aan-zij-koppelsmassage-container2 {
+    top: 190px;
+    right: var(--dl-space-space-twounits);
+    width: 300px;
+    height: 600px;
+    align-self: flex-end;
+    margin-right: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-text04 {
+    font-size: 36px;
+  }
+  .zij-aan-zij-koppelsmassage-text05 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label1 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label2 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-container3 {
+    top: 190px;
+    left: var(--dl-space-space-twounits);
+    width: 300px;
+    height: 600px;
+    align-self: flex-end;
+    margin-right: var(--dl-space-space-threeunits);
+  }
+  .zij-aan-zij-koppelsmassage-text08 {
+    font-size: 36px;
+  }
+  .zij-aan-zij-koppelsmassage-text09 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label3 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label4 {
+    font-size: 22px;
+  }
+  .zij-aan-zij-koppelsmassage-label5 {
+    font-size: 22px;
+  }
+}
+@media(max-width: 991px) {
+  .zij-aan-zij-koppelsmassage-container1 {
+    width: 269px;
+    height: 179px;
+    margin-bottom: 199px;
+  }
+  .zij-aan-zij-koppelsmassage-text03 {
+    font-size: 12px;
+  }
+  .zij-aan-zij-koppelsmassage-container2 {
+    top: 150px;
+    right: var(--dl-space-space-unit);
+    width: 220px;
+    height: 480px;
+    padding: var(--dl-space-space-twounits);
+    margin-right: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-text04 {
+    font-size: 26px;
+  }
+  .zij-aan-zij-koppelsmassage-text05 {
+    font-size: 18px;
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-mark {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label {
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-mark1 {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label1 {
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-mark2 {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label2 {
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-container3 {
+    top: 150px;
+    left: var(--dl-space-space-unit);
+    width: 220px;
+    height: 480px;
+    padding: var(--dl-space-space-twounits);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-text08 {
+    font-size: 26px;
+  }
+  .zij-aan-zij-koppelsmassage-text09 {
+    font-size: 18px;
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-mark3 {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label3 {
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-mark4 {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label4 {
+    font-size: 18px;
+  }
+  .zij-aan-zij-koppelsmassage-mark5 {
+    margin-left: 0px;
+  }
+  .zij-aan-zij-koppelsmassage-label5 {
+    font-size: 18px;
+  }
+}
+@media(max-width: 767px) {
+  .zij-aan-zij-koppelsmassage-text {
+    text-align: center;
+  }
+  .zij-aan-zij-koppelsmassage-container1 {
+    margin-bottom: 645px;
+  }
+  .zij-aan-zij-koppelsmassage-container2 {
+    top: 600px;
+  }
+  .zij-aan-zij-koppelsmassage-container3 {
+    top: 600px;
+  }
+}
+@media(max-width: 479px) {
+  .zij-aan-zij-koppelsmassage-container {
+    background-size: cover;
+    background-position: top,center;
+  }
+  .zij-aan-zij-koppelsmassage-text {
+    font-size: 56px;
+    text-align: center;
+  }
+  .zij-aan-zij-koppelsmassage-container1 {
+    margin-bottom: 1103px;
+  }
+  .zij-aan-zij-koppelsmassage-container2 {
+    top: 600px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    justify-content: flex-start;
+  }
+  .zij-aan-zij-koppelsmassage-container3 {
+    top: 1110px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}

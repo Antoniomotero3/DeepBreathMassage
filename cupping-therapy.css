@@ -1,0 +1,545 @@
+.cupping-therapy-container {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: auto,cover;
+  justify-content: flex-start;
+  background-image: linear-gradient(90deg, rgb(189, 195, 199) 0.00%,rgba(44, 62, 80, 0.25) 100.00%),url("public/playground_assets/cupping-therapy.jpg");
+  background-repeat: repeat,no-repeat;
+  background-position: center;
+}
+.cupping-therapy-text {
+  color: var(--dl-color-gray-950);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+}
+.cupping-therapy-text01 {
+  color: var(--dl-color-gray-950);
+  font-size: 36px;
+  margin-bottom: 100px;
+}
+.cupping-therapy-navlink {
+  display: contents;
+}
+.cupping-therapy-get-started {
+  width: 150px;
+  height: 80px;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  border-radius: 58px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+  text-decoration: none;
+  background-color: #4AA4F4;
+}
+.cupping-therapy-text02 {
+  color: rgb(12, 16, 12);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+}
+.cupping-therapy-container1 {
+  width: 529px;
+  height: 229px;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  margin-bottom: 493px;
+  padding-right: var(--dl-space-space-twounits);
+  justify-content: center;
+  background-color: var(--dl-color-gray-black50);
+}
+.cupping-therapy-text03 {
+  color: var(--dl-color-gray-950);
+  font-size: 20px;
+  text-align: center;
+}
+.cupping-therapy-container2 {
+  top: 285px;
+  flex: 0 0 auto;
+  right: var(--dl-space-space-threeunits);
+  width: 450px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black50);
+}
+.cupping-therapy-text04 {
+  color: var(--dl-color-gray-950);
+  font-size: 50px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.cupping-therapy-text05 {
+  color: var(--dl-color-gray-950);
+  font-size: 34px;
+  align-self: flex-start;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.cupping-therapy-mark {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon01 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.cupping-therapy-mark1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon03 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon04 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label1 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.cupping-therapy-mark2 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon06 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon07 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label2 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.cupping-therapy-container3 {
+  top: 285px;
+  flex: 0 0 auto;
+  left: var(--dl-space-space-threeunits);
+  width: 450px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: 20px;
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black50);
+}
+.cupping-therapy-text08 {
+  color: var(--dl-color-gray-950);
+  font-size: 50px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.cupping-therapy-text09 {
+  color: var(--dl-color-gray-950);
+  font-size: 34px;
+  align-self: flex-start;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.cupping-therapy-mark3 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon09 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon10 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label3 {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.cupping-therapy-mark4 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon12 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon13 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label4 {
+  color: #C2C6CC;
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+.cupping-therapy-mark5 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: center;
+}
+.cupping-therapy-icon15 {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  border-radius: 50%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #414141;
+}
+.cupping-therapy-icon16 {
+  fill: #C6FF4B;
+  width: 12px;
+  height: 12px;
+}
+.cupping-therapy-label5 {
+  color: rgb(194, 198, 204);
+  font-size: 34px;
+  font-family: Poppins;
+  line-height: 25px;
+}
+@media(max-width: 1600px) {
+  .cupping-therapy-get-started {
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    background-color: #37acb3;
+  }
+  .cupping-therapy-container1 {
+    width: 367px;
+    margin-bottom: 191px;
+  }
+  .cupping-therapy-text03 {
+    color: var(--dl-color-gray-950);
+    font-size: 16px;
+  }
+  .cupping-therapy-container2 {
+    top: 160px;
+    right: var(--dl-space-space-threeunits);
+    width: 360px;
+    height: 480px;
+  }
+  .cupping-therapy-text04 {
+    font-size: 42px;
+  }
+  .cupping-therapy-text05 {
+    font-size: 28px;
+  }
+  .cupping-therapy-label {
+    font-size: 28px;
+  }
+  .cupping-therapy-label1 {
+    font-size: 28px;
+  }
+  .cupping-therapy-label2 {
+    font-size: 28px;
+  }
+  .cupping-therapy-container3 {
+    top: 160px;
+    left: var(--dl-space-space-threeunits);
+    width: 360px;
+    height: 480px;
+  }
+  .cupping-therapy-text08 {
+    font-size: 42px;
+  }
+  .cupping-therapy-text09 {
+    font-size: 28px;
+  }
+  .cupping-therapy-label3 {
+    font-size: 28px;
+  }
+  .cupping-therapy-label4 {
+    font-size: 28px;
+  }
+  .cupping-therapy-label5 {
+    font-size: 28px;
+  }
+}
+@media(max-width: 1200px) {
+  .cupping-therapy-container1 {
+    width: 309px;
+    height: 206px;
+    margin-bottom: 332px;
+  }
+  .cupping-therapy-text03 {
+    font-size: 13px;
+  }
+  .cupping-therapy-container2 {
+    top: 190px;
+    right: var(--dl-space-space-twounits);
+    width: 300px;
+    height: 600px;
+    align-self: flex-end;
+    margin-right: 0px;
+  }
+  .cupping-therapy-text04 {
+    font-size: 36px;
+  }
+  .cupping-therapy-text05 {
+    font-size: 22px;
+  }
+  .cupping-therapy-label {
+    font-size: 22px;
+  }
+  .cupping-therapy-label1 {
+    font-size: 22px;
+  }
+  .cupping-therapy-label2 {
+    font-size: 22px;
+  }
+  .cupping-therapy-container3 {
+    top: 190px;
+    left: var(--dl-space-space-twounits);
+    width: 300px;
+    height: 600px;
+    align-self: flex-end;
+    margin-right: var(--dl-space-space-threeunits);
+  }
+  .cupping-therapy-text08 {
+    font-size: 36px;
+  }
+  .cupping-therapy-text09 {
+    font-size: 22px;
+  }
+  .cupping-therapy-label3 {
+    font-size: 22px;
+  }
+  .cupping-therapy-label4 {
+    font-size: 22px;
+  }
+  .cupping-therapy-label5 {
+    font-size: 22px;
+  }
+}
+@media(max-width: 991px) {
+  .cupping-therapy-container1 {
+    width: 269px;
+    height: 179px;
+    margin-bottom: 199px;
+  }
+  .cupping-therapy-text03 {
+    font-size: 11px;
+  }
+  .cupping-therapy-container2 {
+    top: 150px;
+    right: var(--dl-space-space-unit);
+    width: 220px;
+    height: 480px;
+    padding: var(--dl-space-space-twounits);
+    margin-right: 0px;
+  }
+  .cupping-therapy-text04 {
+    font-size: 26px;
+  }
+  .cupping-therapy-text05 {
+    font-size: 18px;
+    margin-left: 0px;
+  }
+  .cupping-therapy-mark {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label {
+    font-size: 18px;
+  }
+  .cupping-therapy-mark1 {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label1 {
+    font-size: 18px;
+  }
+  .cupping-therapy-mark2 {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label2 {
+    font-size: 18px;
+  }
+  .cupping-therapy-container3 {
+    top: 150px;
+    left: var(--dl-space-space-unit);
+    width: 220px;
+    height: 480px;
+    padding: var(--dl-space-space-twounits);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  .cupping-therapy-text08 {
+    font-size: 26px;
+  }
+  .cupping-therapy-text09 {
+    font-size: 18px;
+    margin-left: 0px;
+  }
+  .cupping-therapy-mark3 {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label3 {
+    font-size: 18px;
+  }
+  .cupping-therapy-mark4 {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label4 {
+    font-size: 18px;
+  }
+  .cupping-therapy-mark5 {
+    margin-left: 0px;
+  }
+  .cupping-therapy-label5 {
+    font-size: 18px;
+  }
+}
+@media(max-width: 767px) {
+  .cupping-therapy-text {
+    text-align: center;
+  }
+  .cupping-therapy-container1 {
+    margin-bottom: 645px;
+  }
+  .cupping-therapy-container2 {
+    top: 600px;
+  }
+  .cupping-therapy-container3 {
+    top: 600px;
+  }
+}
+@media(max-width: 479px) {
+  .cupping-therapy-container {
+    background-size: cover;
+    background-position: top,center;
+  }
+  .cupping-therapy-text {
+    font-size: 56px;
+    text-align: center;
+  }
+  .cupping-therapy-container1 {
+    margin-bottom: 1103px;
+  }
+  .cupping-therapy-container2 {
+    top: 600px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    justify-content: flex-start;
+  }
+  .cupping-therapy-container3 {
+    top: 1110px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}

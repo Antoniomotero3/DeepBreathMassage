@@ -1,0 +1,14 @@
+.get-started-get-started {
+  display: flex;
+  position: relative;
+  text-decoration: none;
+  background-color: #4AA4F4;
+}
+.get-started-text {
+  color: #0C100C;
+  font-size: 16px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+}
